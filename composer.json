@@ -1,0 +1,14 @@
+{
+    "name": "augustogany/shopping",
+    "description": "paquete carrito de compras para laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Augusto Carvalho",
+            "email": "auguss24@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
