@@ -1,6 +1,6 @@
 {
     "name": "augustogany/shopping",
-    "description": "paquete carrito de compras para laravel",
+    "description": "paquete de caja chica para laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
