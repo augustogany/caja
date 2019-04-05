@@ -2,8 +2,8 @@
 namespace augustogany\caja\Facades;
 use Illuminate\Support\Facades\Facade;
 /**
- * Class ShoppingCartFacade
- * @package LaraShout\ShoppingCart
+ * Class CajaChicaFacade
+ * @package augustogany\caja
  */
 class CajaChicaFacade extends Facade
 {
@@ -12,6 +12,6 @@ class CajaChicaFacade extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'caja chica';
+        return 'cajachica';
     }
 }
